@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "App-mobile"
-include(":app")
+include(":app",":shared")
