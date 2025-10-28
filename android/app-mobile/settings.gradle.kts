@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "App-mobile"
 include(":app",":shared")
+include(":for delete")
+include(":app-wear")
